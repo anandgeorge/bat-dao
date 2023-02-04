@@ -36,23 +36,18 @@
     "defaultOpen": true,
     "children": [
       {
-        "name": "Ideas",
-        "link": "/ideas",
-        "external": false
-      },
-      {
         "name": "Assets",
         "link": "/assets",
         "external": false
       },
       {
         "name": "GitHub",
-        "link": "https://github.com/nounsDAO/nouns-monorepo",
+        "link": "https://github.com/anandgeorge/bat-nouns-dao",
         "external": true
       },
       {
         "name": "Dev FAQ",
-        "link": "https://github.com/nounsDAO/nouns-monorepo/discussions",
+        "link": "https://github.com/anandgeorge/bat-nouns-dao/discussions",
         "external": true
       },
       {
@@ -104,23 +99,18 @@
         "external": false
       },
       {
-        "name": "Talent",
-        "link": "/talent",
-        "external": false
-      },
-      {
         "name": "Learn",
         "link": "/learn",
         "external": false
       },
       {
         "name": "Podcast",
-        "link": "http://nounotalk.com/",
+        "link": "/",
         "external": true
       },
       {
         "name": "Blog",
-        "link": "https://nouns.blog/",
+        "link": "/",
         "external": true
       }
     ]

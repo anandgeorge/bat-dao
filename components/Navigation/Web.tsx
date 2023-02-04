@@ -93,9 +93,9 @@ const Web = () => {
                   ))}
                 </div>
 
-                <div className="flex items-center flex-shrink-0">
+                {/* <div className="flex items-center flex-shrink-0">
                   <Button link="https://nouns.wtf/" text="nouns.wtf" small />
-                </div>
+                </div> */}
               </div>
             </div>
 

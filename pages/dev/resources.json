@@ -12,7 +12,7 @@
     "name": "Github Org",
     "imageUrl": "github.png",
     "bio": "Official GitHub of the Nouns Foundation.",
-    "url": "https://github.com/nounsDAO",
+    "url": "https://github.com/anandgeorge/bat-nouns-dao",
     "btnText": "Go to Github",
     "notion": false,
     "notionId": ""
@@ -21,7 +21,7 @@
     "name": "Nouns Frontend Stream",
     "imageUrl": "stream.png",
     "bio": "Going over the Nouns Frontend and deploying to IPFS.",
-    "url": "https://nounish.tv/w/wetmy9J6oW4C4Pao5ZjnZk",
+    "url": "/",
     "btnText": "Watch Stream",
     "notion": false,
     "notionId": ""
@@ -30,10 +30,10 @@
     "name": "Smart Contract Architecture",
     "imageUrl": "smartcontract.png",
     "bio": "NounsToken, NounsSeeder, NounsDescriptor, NounsAuctionHouse, NounsDAOExecutor, NounsDAOProxy, and NounsDAOLogicV1.",
-    "url": "https://nouns.notion.site/Smart-contract-architecture-eb6e3e2c9c5f49feb09b5bad26a6001c",
+    "url": "https://bat-dao.notion.site/Smart-contract-architecture-5fd0f497f0e049e7a6141672bd60c655",
     "btnText": "Read More",
     "notion": true,
-    "notionId": "eb6e3e2c9c5f49feb09b5bad26a6001c"
+    "notionId": "5fd0f497f0e049e7a6141672bd60c655"
   },
   {
     "name": "Noun Pics",
@@ -66,10 +66,10 @@
     "name": "Generate on-chain Noun",
     "imageUrl": "generate.png",
     "bio": "Explore how to generate a pseudo-random noun, fully on-chain, with just two contract calls.",
-    "url": "https://nouns.notion.site/Generate-a-random-Noun-on-chain-4235479b512741289ede4cd22954cffc",
+    "url": "https://bat-dao.notion.site/Generate-a-random-Noun-on-chain-4e2f46f65b864b72b64a94af6921f459",
     "btnText": "Read More",
     "notion": true,
-    "notionId": "4235479b512741289ede4cd22954cffc"
+    "notionId": "4e2f46f65b864b72b64a94af6921f459"
   },
   {
     "name": "The Noun Crystal Ball",
@@ -84,7 +84,7 @@
     "name": "Dev FAQ",
     "imageUrl": "discussions.png",
     "bio": "Ask technical questions you're wondering about, share ideas, or engage with other community members.",
-    "url": "https://github.com/nounsDAO/nouns-monorepo/discussions",
+    "url": "https://github.com/anandgeorge/bat-nouns-dao/discussions",
     "btnText": "View FAQs",
     "notion": false,
     "notionId": ""

@@ -21,7 +21,7 @@ const props = [
     author: {
       name: 'Brian',
       href: 'https://twitter.com/pbrianandj',
-      imageUrl: 'https://pbs.twimg.com/profile_images/1556491192480608256/HdVUUIeg_400x400.png',
+      imageUrl: 'https://pbs.twimg.com/profile_images/1598382612308844544/YSR3eWSk_400x400.jpg',
     },
   },
 
@@ -34,7 +34,7 @@ const props = [
     author: {
       name: 'Jacob',
       href: 'https://twitter.com/js_horne',
-      imageUrl: 'https://pbs.twimg.com/profile_images/1558913916486426625/lgv0PBh__400x400.jpg',
+      imageUrl: 'https://pbs.twimg.com/profile_images/1576427258146918401/7hKBIrOU_400x400.jpg',
     },
   },
   {
@@ -48,7 +48,7 @@ const props = [
     author: {
       name: 'Brandon Mighty',
       href: 'https://twitter.com/brandonmighty',
-      imageUrl: 'https://pbs.twimg.com/profile_images/1511768684276109316/vBfvqz3y_400x400.jpg',
+      imageUrl: 'https://pbs.twimg.com/profile_images/1607814838440304641/fmEF3TP8_400x400.jpg',
     },
   },
 ];

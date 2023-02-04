@@ -13,7 +13,7 @@ const Footer = () => {
 
       <div className="flex gap-8 items-center">
         {/* Twitter */}
-        <a href="https://twitter.com/nounsdao" target="_blank" rel="noreferrer">
+        <a href="https://twitter.com/dao_bat" target="_blank" rel="noreferrer">
           <svg
             className="w-6 h-8 fill-black hover:fill-gray-400 transition cursor-pointer"
             xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@ const Footer = () => {
         </a>
 
         {/* Discord */}
-        <a href="https://discord.gg/nouns" target="_blank" rel="noreferrer">
+        <a href="https://discord.gg/jU47rNhghS" target="_blank" rel="noreferrer">
           <svg
             className="h-8 w-7 fill-black hover:fill-gray-400 transition cursor-pointer"
             viewBox="0 0 100 100"
